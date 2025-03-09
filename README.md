@@ -16,5 +16,5 @@ A simple Python-based To-Do List application with both **CLI** and **GUI** optio
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/akshithapendota995/todo-list-app.git
    cd todo-list-app
